@@ -1,0 +1,9 @@
+*~
+*-
+*.swp
+.DS_Store
+
+env
+env3
+
+tilestache.cfg
